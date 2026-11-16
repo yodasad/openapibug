@@ -1,0 +1,6 @@
+@FailedOpenApi_HostAddress = http://localhost:5073
+
+GET {{FailedOpenApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

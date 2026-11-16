@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FailedOpenApi/FailedOpenApi.csproj" />
+  <Project Path="FailedOpenApiLibrary/FailedOpenApiLibrary.csproj" />
+</Solution>

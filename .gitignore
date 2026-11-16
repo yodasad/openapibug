@@ -1,0 +1,43 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+.nuget/
+
+# Other folders
+_ReSharper.*
+packages/
+artifacts/
+
+# Visual Studio Code
+.vscode
+.vs
+
+#JetBrains Apps
+.idea/
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+/publish
+
+.npm/
