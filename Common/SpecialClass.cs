@@ -3,7 +3,7 @@
     /// <summary>
     /// My special class.
     /// </summary>
-    public class SpecialClass
+    internal class SpecialClass
     {
         /// <summary>
         /// Gets or sets the name.
